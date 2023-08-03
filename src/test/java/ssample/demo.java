@@ -9,4 +9,9 @@ public class demo {
 		System.out.println("hi its my first commit");
 	}
 
+	@Test
+	public void sample2()
+	{
+		System.out.println("hello this is my secound commit");
+	}
 }
