@@ -9,4 +9,10 @@ public class sample {
 	{
 		System.out.println("hello how are you");
 	}
+
+	@Test
+	public void Announcement()
+	{
+		System.out.println("Tomorrow's class is at 7");
+	}
 }
